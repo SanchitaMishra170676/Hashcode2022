@@ -61,7 +61,7 @@ signed main(void){
     	vc.pb({name,temp});
     }
 
-//////// contibutor hogya ////////
+//////// Contributor Input Done ////////
 
 
     	vector<project> vp;
@@ -83,7 +83,7 @@ signed main(void){
 
     	}
 
-// ///////IP hogye//////////
+/////////Project Input Done//////////
 
     	sort(vp.begin(),vp.end(),cns);
 
